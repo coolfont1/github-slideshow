@@ -1,0 +1,6 @@
+{
+  "bb_sync_version":"1.0",
+  "name":"Newinvestmentbot_bot",
+  "csv_url":"https://docs.google.com/spreadsheets/d/1hLEeCGqT5zTtT7hFs0HP20v5BrRj1y70Qhz4bOItO-c/edit?usp=drivesdk",
+  "git_remote":"git@github.com:coolfont1/github-slideshow"
+}
